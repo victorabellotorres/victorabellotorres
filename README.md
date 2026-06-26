@@ -18,7 +18,7 @@ I'm a Computer Science student on my last year of Bachelor's degree at **FIB –
 
 - 🇨🇿 Finished an **exchange program at CTU (CVUT) in Prague**, taking Master's-level courses in Statistical Methods, Web Data Mining, Combinatorial Applications, Scripting Languages, and Middleware Architectures.
 - 🎓 Specialized in the **Computing track** at UPC, focusing on Algorithms, AI, Graphics, and Computation Theory — **GPA: 7.98/10**.
-- 🔐 Completed an **8-month internship** at [Build38](https://build38.com/), a cybersecurity startup in Barcelona.
+- 🔐 Completed an **8-month internship** at a cybersecurity startup in Barcelona.
 
 ### What I'm up to
 
@@ -71,7 +71,7 @@ I'm a Computer Science student on my last year of Bachelor's degree at **FIB –
 | Period | Degree | Institution |
 |--------|--------|-------------|
 | Feb 2026 – June 2026 | Exchange Program (Master's-level courses) | Czech Technical University in Prague (CVUT) 🇨🇿 |
-| Sept 2022 – Present | B.Sc. Computer Science (GPA: 7.98/10) | FIB – UPC Barcelona 🇪🇸 |
+| Sept 2022 – Present | B.Sc. Computer Science | FIB – UPC Barcelona 🇪🇸 |
 
 ---
 
