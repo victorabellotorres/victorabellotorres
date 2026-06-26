@@ -23,7 +23,7 @@ I'm a Computer Science student on my last year of Bachelor's degree at **FIB –
 ### What I'm up to
 
 - 📚 Learning about **ML, transformer architectures, and agentic AI**
-- 🛠️ Working on personal projects and looking forward to taking part in **Hackathons**
+- 🛠️ Working on personal projects and looking forward to find a job or internship.
 
 ---
 
