@@ -70,8 +70,8 @@ I'm a Computer Science student on my last year of Bachelor's degree at **FIB –
 
 | Period | Degree | Institution |
 |--------|--------|-------------|
-| Feb 2025 – Present | Exchange Program (Master's-level courses) | Czech Technical University in Prague (CVUT) 🇨🇿 |
-| Sept 2021 – Present | B.Sc. Computer Science (GPA: 7.98/10) | FIB – UPC Barcelona 🇪🇸 |
+| Feb 2026 – June 2026 | Exchange Program (Master's-level courses) | Czech Technical University in Prague (CVUT) 🇨🇿 |
+| Sept 2022 – Present | B.Sc. Computer Science (GPA: 7.98/10) | FIB – UPC Barcelona 🇪🇸 |
 
 ---
 
