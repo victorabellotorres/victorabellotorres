@@ -17,7 +17,7 @@
 I'm a Computer Science student on my last year of Bachelor's degree at **FIB – UPC Barcelona**, with only my Bachelor's Thesis left. I have a problem-solving mindset, strong communication skills, and an eagerness to continuously learn and improve.
 
 - 🇨🇿 Finished an **exchange program at CTU (CVUT) in Prague**, taking Master's-level courses in Statistical Methods, Web Data Mining, Combinatorial Applications, Scripting Languages, and Middleware Architectures.
-- 🎓 Specialized in the **Computing track** at UPC, focusing on Algorithms, AI, Graphics, and Computation Theory — **GPA: 7.98/10**.
+- 🎓 Specialized in the **Computing track** at UPC, focusing on Algorithms, AI, Graphics, and Computation Theory
 - 🔐 Completed an **8-month internship** at a cybersecurity startup in Barcelona.
 
 ### What I'm up to
